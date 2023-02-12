@@ -11,7 +11,7 @@ None necessary
 ## Usage
 
 ```md
-![Website-Screenshot]http://Assets/Screenshot.png
+![Website-Screenshot](http://Assets/Screenshot.png)
 ```
 
 ## License
