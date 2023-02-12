@@ -10,6 +10,7 @@ None necessary
 
 ## Usage
 
+https://jacobryanwillis.github.io/Random_Password_Generator/
 
 ![Website-Screenshot](https://github.com/JacobRyanWillis/Random_Password_Generator/blob/bd57f2061449b9d9428c52ea308724b983c78c93/Assets/Screenshot.png)
 
