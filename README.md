@@ -11,7 +11,7 @@ None necessary
 ## Usage
 
 ```md
-![Website_Screenshot](./Assets/Screenshot.png)
+https://github.com/JacobRyanWillis/Random_Password_Generator/blob/397b823e673a1c31694301baa0f3c5b1be50c1d8/Assets/Screenshot.png
 ```
 
 ## License
